@@ -1,0 +1,181 @@
+
+.p_one_main {
+    width:100%;
+    height:100%;
+    position:relative;
+    top:0;
+    left:0;
+    display:block;
+    z-index:0;
+    /* background-image: 'https://demo.tagdiv.com/newspaper_medicine_pro/wp-content/uploads/2020/04/71ecbfc4dd734c2397c50312df8adfcb_18-e1586440233959.jpg';
+    background-position: center center;
+    background-size: cover; */
+}
+.button {
+    width:10rem;
+    height:2rem;
+    background-color: #0db588;
+    border:none;   
+    color:#FFF;
+    margin-top: 1rem;
+    font-size: 12px;
+  position: absolute;
+}
+.secondmain {
+  width:90%;
+  margin: 0 auto;
+}
+.img1 {
+  width:40%;
+
+}
+.img1_1 {
+  width: 50%
+}
+.linkone {
+  color:#000;
+  font-family: Lato !important;
+  font-size: 30px !important;
+  line-height: 1.1 !important;
+  font-weight: 900 !important;
+  text-align: left;
+  
+  margin-top: 2rem;
+}
+
+.linkone:hover {
+ color:#000;
+  text-decoration: underline;
+text-decoration-color:#0db588;
+text-decoration-thickness:3px;
+}
+.line {
+  font-family: Lato !important;
+    font-size: 14px !important;
+    line-height: 1 !important;
+    font-weight: 700 !important;
+    margin: 1rem !important;
+    letter-spacing: 0.5px !important;
+    color: #767676;
+}
+.linenew {
+  display: block;
+  margin: 1rem;
+  column-count: 1;
+  column-gap: 48px;
+  font-family: Roboto Slab !important;
+  font-size: 17px !important;
+  line-height: 1.5 !important;
+  font-weight: 400 !important;
+  color: #767676;
+}
+.linkone_1 {
+  color:#000;
+  font-family: Lato !important;
+  font-size: 20px !important;
+  line-height: .5 !important;
+  font-weight: 900 !important;
+
+  text-align: left;
+  
+  margin-top: 2rem;
+}
+.linkone_1:hover {
+  color:#000;
+   text-decoration: underline;
+ text-decoration-color:#0db588;
+ text-decoration-thickness:2px;
+ }
+ .box {
+  width:82%;
+  height:20%;
+  background-color: rgba(43,173,108,0.15);
+  border: none;
+  display:flex;
+  padding:1rem;
+  line-height: .5;
+  
+
+ }
+ .box_1 {
+  width:82%;
+  height:20%;
+  background-color: rgba(43,173,108,0.15);
+  border: none;
+  display:flex;
+  padding:1rem;
+  line-height: .5;
+  margin-top: 1rem;
+ }
+ .button{
+  
+    position: absolute;
+    top: 10rem;
+    left: 50px;
+   
+ }
+ .sidelink {
+  color:#000;
+  font-family: Lato !important;
+  font-size: 15px !important;
+  line-height: 1.1 !important;
+  font-weight: 900 !important;
+  text-align: left;
+  
+    
+  margin-top: 2rem;
+}
+
+.sidelink:hover {
+ color:#000;
+  text-decoration: underline;
+text-decoration-color:#0db588;
+text-decoration-thickness:3px;
+}
+.circle1 img {
+  width:4rem;
+  height:4rem;
+  border-radius: 100%;
+}
+.toplink:hover {
+  color:#FFF;
+  text-decoration: underline;
+text-decoration-color:#0db588;
+text-decoration-thickness:3px;
+}
+.toplink {
+  font-family: Lato;
+    font-size: 50px;
+    line-height: 1.2;
+    font-weight: 900;
+    position:absolute;
+     top:200px;
+      left:50px;
+       margin-top:20px; 
+       margin-right:45rem;
+       color:#FFF !important;
+}
+.april {
+  font-family: Lato;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 900;
+    position:absolute;
+     top:400px;
+      left:50px;
+       margin-top:20px; 
+       margin-right:45rem;
+       color:#FFF !important;
+}
+.font {
+  font-family: Lato;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 900;
+  position:absolute;
+   top:430px;
+    left:50px;
+     margin-top:20px; 
+     margin-right:56rem;
+     color:#FFF !important;
+}
